@@ -5,9 +5,11 @@ Unity Developer | Indie Game Creator | Computer Science Student
 ---
 
 ### 🔹 About Me
+
 - 🎮 Building indie games with Unity
 - 🏫 College student learning Computer Science
 - 📖 Actively studying Unity Engine & C# since February 2025.
+  
 ---
 
 ### 🔹 Stats
@@ -20,7 +22,7 @@ Unity Developer | Indie Game Creator | Computer Science Student
 
 ---
 
-### 🔹 Minimal Links
+### 🔹 Links
 
 - [Itch.io](https://bl0oby.itch.io/)
 - [Twitter (Will be added later)](#)
