@@ -8,7 +8,8 @@ Unity Developer | Indie Game Creator | Computer Science Student
 
 - 🎮 Building indie games with Unity
 - 🏫 College student learning Computer Science
-- 📖 Actively studying Unity Engine & C# since February 2025.
+- 📖 Actively studying Unity Engine & C# since February 1, 2025.
+- 🎸 Learning to play the guitar since August 18, 2025.
   
 ---
 
