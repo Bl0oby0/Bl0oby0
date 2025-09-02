@@ -1,6 +1,6 @@
 # Suppie, I'm Blooby0-0.
 
-Unity Developer | Indie Game Creator | Computer Science Student
+Unity Developer | Computer Science Student
 
 ---
 
