@@ -1,4 +1,4 @@
-# Suppie, I'm Blooby0-0.
+# Suppie, I'm Bl0oby0.
 
 Unity Developer | Computer Science Student
 
