@@ -16,9 +16,9 @@ Unity Developer | Computer Science Student
 ### 🔹 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blooby0-0&show_icons=true&hide_title=true&hide_border=true&theme=transparent&count_private=true" alt="Blooby0-0's GitHub Stats" height="140">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Blooby0-0&hide_border=true&theme=transparent" alt="GitHub Streak" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blooby0-0&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" height="140">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bl0oby0&show_icons=true&hide_title=true&hide_border=true&theme=transparent&count_private=true" alt="Bl0oby0 0-0's GitHub Stats" height="140">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bl0oby0&hide_border=true&theme=transparent" alt="GitHub Streak" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bl0oby0&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" height="140">
 </p>
 
 ---
