@@ -8,8 +8,8 @@ Unity Developer | Computer Science Student
 
 - 🎮 Building indie games with Unity
 - 🏫 College student learning Computer Science
-- 📖 Actively studying Unity Engine & C# since February 1, 2025.
-- 🎸 Learning to play the guitar since August 18, 2025.
+- 📖 Studying Unity Engine & C# since February 2025.
+- ⚔️ Studying HTML, CSS & JS since February 2026.
   
 ---
 
