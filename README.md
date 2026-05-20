@@ -19,7 +19,7 @@ Unity Developer | Computer Science Student
     <img src="https://gstats-two.vercel.app/api?username=Bl0oby0&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"
          style="width: 45%; max-width: 400px;" />
 
-  <img src="https://streak-stats.demolab.com?user=Bl0oby0&theme=dracula"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bl0oby0&theme=dracula"
          style="width: 45%; max-width: 400px;" />
   </div>
   
