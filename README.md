@@ -9,7 +9,7 @@ Unity Developer | Computer Science Student
 - ⚪ College student learning Computer Science
 - ⚫ Studying **Unity Engine & C#** since February 2025.
 - ⚪ Exploring **Microcontrollers & Hardware** (Arduino, ESP32, Circuit design)
-- 
+  <br><br>
 - ⚫ ~~Learning **HTML, CSS & JS** since February 2026.~~ (?)
 ---
   
